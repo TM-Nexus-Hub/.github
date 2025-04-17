@@ -22,7 +22,7 @@ We are a student-led open-source initiative focused on building powerful, real-w
 ## 💭 Founder’s Vision
 
 > *"Dream scripts ideas, ideas compile as program, program execute as impactful solution."*  
-> — **Tharvesh Muhaideen A**, Founder of TM Nexus Hub
+> — **Tharvesh Muhaideen A**
 
 This quote reflects the essence of everything we do here at TM Nexus Hub — turning thoughts into code and code into change.
 
@@ -104,6 +104,10 @@ Whether you're here to learn, contribute, or just explore — you're in the righ
 **– Tharvesh Muhaideen A**  
 Founder & Visionary, TM Nexus Hub  
 [LinkedIn](https://www.linkedin.com/in/tharvesh2005) | [GitHub](https://github.com/Tharvesh588)
+
+**– Naveen D**  
+Frontend developer, TM Nexus Hub  
+[LinkedIn](https://www.linkedin.com/in/naveend2005) | [GitHub](https://github.com/naveend069)
 
 ---
 
