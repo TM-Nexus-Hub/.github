@@ -106,7 +106,7 @@ Founder & Visionary, TM Nexus Hub
 [LinkedIn](https://www.linkedin.com/in/tharvesh2005) | [GitHub](https://github.com/Tharvesh588)
 
 **– Naveen D**  
-Frontend developer, TM Nexus Hub  
+Admin & Frontend developer, TM Nexus Lab  
 [LinkedIn](https://www.linkedin.com/in/naveend2005) | [GitHub](https://github.com/naveend069)
 
 ---
